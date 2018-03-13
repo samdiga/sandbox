@@ -114,7 +114,4 @@
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
-  <component name="SvnConfiguration" myUseAcceleration="nothing">
-    <configuration useDefault="false">D:\samdiga\Apps\TortoiseSVN</configuration>
-  </component>
 </project>

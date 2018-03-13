@@ -10,6 +10,7 @@
 _js.view = new (function () {
     'use strict';
     function View() {
+
     }
 
     var _viewPathSeparator = ">"; // private const variable to hold view path separator
